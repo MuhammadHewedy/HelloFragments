@@ -15,9 +15,9 @@ public class MainActivity extends FragmentActivity {
 
         FrameLayout frameLayout = (FrameLayout) findViewById(R.id.fragment_container);
 
-        if (frameLayout != null){
+        if (frameLayout != null) {
 
-            if (savedInstanceState != null){
+            if (savedInstanceState != null) {
                 return;
             }
 
@@ -37,5 +37,5 @@ public class MainActivity extends FragmentActivity {
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
-    
+
 }
