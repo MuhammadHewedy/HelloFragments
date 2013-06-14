@@ -20,9 +20,9 @@
     <ignored path="HelloFragments.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/RecentFragment.java" changelist="8e3724e2-d4e1-434d-bb70-894d280c7efa" time="1371174358584" ignored="false" />
-    <file path="/Dummy.txt" changelist="8e3724e2-d4e1-434d-bb70-894d280c7efa" time="1371179533901" ignored="false" />
+    <file path="/Dummy.txt" changelist="8e3724e2-d4e1-434d-bb70-894d280c7efa" time="1371180172898" ignored="false" />
     <file path="/activity_main.xml" changelist="8e3724e2-d4e1-434d-bb70-894d280c7efa" time="1371174978656" ignored="false" />
-    <file path="/MainActivity.java" changelist="8e3724e2-d4e1-434d-bb70-894d280c7efa" time="1371179860557" ignored="false" />
+    <file path="/MainActivity.java" changelist="8e3724e2-d4e1-434d-bb70-894d280c7efa" time="1371180478644" ignored="false" />
     <file path="/main.xml" changelist="8e3724e2-d4e1-434d-bb70-894d280c7efa" time="1371176551452" ignored="false" />
     <file path="/searchable.xml" changelist="8e3724e2-d4e1-434d-bb70-894d280c7efa" time="1371178267336" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="8e3724e2-d4e1-434d-bb70-894d280c7efa" time="1371178457502" ignored="false" />
@@ -35,7 +35,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="C:\Users\mhewedy\AndroidStudioProjects\HelloFragments" />
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
@@ -87,10 +87,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloFragments/src/main/java/com/me/hellofragments/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="5" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.36340854">
+            <state line="41" column="19" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="14" selection-start="271" selection-end="271" vertical-scroll-proportion="0.3767313">
               <folding />
             </state>
           </provider>
@@ -148,6 +159,7 @@
         <option value="$PROJECT_DIR$/HelloFragments/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/HelloFragments/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/HelloFragments/src/main/java/com/me/hellofragments/MainActivity.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -203,7 +215,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="appearance" />
     <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5556" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="V2.2_AVD_for_3_2in_QVGA_ADP2" />
@@ -369,7 +381,7 @@
       <updated>1371174030270</updated>
       <workItem from="1371174045986" duration="80000" />
       <workItem from="1371174212939" duration="3170000" />
-      <workItem from="1371177408358" duration="2701000" />
+      <workItem from="1371177408358" duration="3705000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1371174705075</created>
@@ -387,30 +399,34 @@
       <created>1371179542310</created>
       <updated>1371179542310</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="For now, make search function (binding the Search configuration with SerachView) available for API 11 and above">
+      <created>1371180192087</created>
+      <updated>1371180192087</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5951000" />
+    <option name="totallyTimeSpent" value="6955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277592" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28691274" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33557048" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25833333" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.71308726" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24090908" sideWeight="0.67114097" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852808" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -487,7 +503,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create search configurations (searchable.xml and metadata under activity) and associate it with the SearchView in the action menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="For now, make search function (binding the Search configuration with SerachView) available for API 11 and above" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -505,32 +521,12 @@
     <MESSAGE value="Show Recent fragment on Activity Create" />
     <MESSAGE value="Add search item in the action menu. but non functional yet." />
     <MESSAGE value="Create search configurations (searchable.xml and metadata under activity) and associate it with the SearchView in the action menu" />
+    <MESSAGE value="For now, make search function (binding the Search configuration with SerachView) available for API 11 and above" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HelloFragments/src/main/java/com/me/hellofragments/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloFragments/src/main/res/menu/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloFragments/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloFragments/src/main/java/com/me/hellofragments/RecentFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="13" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0">
@@ -629,9 +625,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/HelloFragments/libs/android-support-v4.jar!/android/support/v4/app/FragmentActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="0" selection-start="5137" selection-end="5137" vertical-scroll-proportion="-10.2">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/app/Activity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="432" column="0" selection-start="19421" selection-end="19421" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HelloFragments/src/main/java/com/me/hellofragments/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="5" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.36340854">
+        <state line="41" column="19" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="14" selection-start="271" selection-end="271" vertical-scroll-proportion="0.3767313">
           <folding />
         </state>
       </provider>
