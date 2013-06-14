@@ -4,5 +4,6 @@
     <string name="app_name" >HelloFragments
     </string>
     <string name="search_title">Search</string>
+    <string name="search_hint">Search products</string>
 
 </resources>
